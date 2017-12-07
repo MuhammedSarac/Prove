@@ -10,6 +10,7 @@ namespace TorsdagsWork
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(  Adition(2, 4));
         }
 
         public static int Adition(int tal1, int tal2)
